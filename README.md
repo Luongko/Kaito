@@ -121,7 +121,26 @@
     <p class="intro">PHẦN ĐỌC HIỂU (4.0 điểm)</p> 
     <div class="additional-info"> 
      <p>Cho ngữ liệu sau đọc và trả lời câu hỏi:</p> 
-     <p>Bài học về việc đón nhận thành công luôn thật dễ hiểu và dễ thực hiện...</p> 
+     <p>Bài học về việc đón nhận thành công luôn
+      thật dễ hiểu và dễ thực hiện. Nhưng đối mặt với
+      thất bại, nhất là thất bại đầu đời, lại là điều
+      không hề dễ dàng. Với tất cả mọi người, thất bại
+      - nhất là thất bại trong các mối quan hệ - thường
+      vẫn tạo ra những tổn thương sâu sắc. Điều này càng
+      trở nên nặng nề đối với các bạn trẻ. Nhưng bạn có
+      biết rằng tất cả chúng ta đều có quyền được khóc?
+      Vậy nên nếu bạn đang cảm thấy cô đơn, tuyệt vọng
+      thì hãy cho phép mình được khóc. Hãy để những giọt
+      nước mắt ấm nồng xoa dịu trái tim đang thổn thức của
+      bạn. Và hãy tin rằng ở đâu đó, có một người nào đó vẫn
+      đang sẵn lòng kề vai cho bạn tựa, muốn được ôm bạn vào
+      lòng và lau khô những giọt nước mắt của bạn... Muốn
+      nhìn thấy cầu vồng, ta phải đi qua cơn mưa... Vì thế,
+      hãy tin ngày mai nắng sẽ lên, và cuộc đời lại sẽ ươm
+      hồng những ước mơ của bạn, một khi bạn còn giữ trong
+      lòng ánh sáng của niềm tin.
+
+(Theo Hạt giống tâm hồn dành cho tuổi teen, Tập 2 - Nhiều tác giả, NXB Tổng hợp TP. Hồ Chí Minh, 2012, trang 02)</p> 
     </div> 
     <div class="image-container"> 
      <img src="https://via.placeholder.com/1920x1080" alt="Ảnh đề thi 1"> 
